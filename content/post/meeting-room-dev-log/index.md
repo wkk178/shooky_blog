@@ -3,7 +3,7 @@ title: "会议室预约系统开发日志"
 slug: meeting-room-dev-log
 date: 2026-09-22T22:22:32+08:00
 draft: false
-tags: ["开发日志", "踩坑", "SQL", "前端"]
+tags: ["开发日志",  "SQL", "前端"]
 ---
 
 关于会议室管理系统的bug修复，很多坑都是写 SQL 和前端状态踩出来的。
