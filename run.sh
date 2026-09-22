@@ -1,1 +1,1 @@
-hugo server --gc --themesDir=../..
+hugo server -D --gc
