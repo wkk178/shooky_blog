@@ -1,5 +1,6 @@
 ---
 title: "会议室预约系统开发日志"
+slug: meeting-room-dev-log
 date: 2026-09-22T22:22:32+08:00
 draft: false
 tags: ["开发日志", "踩坑", "SQL", "前端"]
