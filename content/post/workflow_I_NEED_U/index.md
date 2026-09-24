@@ -1,12 +1,10 @@
 +++
 date = '2026-09-23T18:29:26+08:00'
 draft = false
-title = '只是因为在人群中看了你一眼：Obsidian'
+title = '工具流学习：Obsidian'
 tags = ['工具流','知识管理']
 +++
 
-
-在 [csdiy.wiki 的工作流板块](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/workflow/#_5) 闲逛，偶遇了 **Obsidian**。
 
 就goodnotes的前车之鉴，最终决定将“无纸化”革命贯彻到底——Obsidian 最打动我的一点，正是**本地部署**。再也不用担心笔记free了！
 
