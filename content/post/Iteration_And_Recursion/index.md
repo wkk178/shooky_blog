@@ -6,7 +6,7 @@ tags: ["CS61A", "Composing Programs", "Python", "递归", "牛顿法"]
 categories: ["学习笔记"]
 ---
 
-#如何化简问题
+# 如何化简问题
 
 今天学的两大块内容——牛顿法、递归函数，核心思想都是将问题简化。
 
@@ -73,3 +73,6 @@ count_partitions(n, m) = count_partitions(n-m, m) + count_partitions(n, m-1)
 ## 总结
 
 **牛顿法把"通用算法"与"具体问题"解耦成三层;递归函数把"复杂问题"拆解成"更简单的同类问题+基准情况"。两者本质上都是同一种化简思维在不同场景下的具体应用。**
+
+---
+> **参考来源**：[🦊 CS61A 教材 Composing Programs 的中文翻译](https://composingprograms.netlify.app/)
