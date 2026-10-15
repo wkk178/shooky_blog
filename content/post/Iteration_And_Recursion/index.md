@@ -17,7 +17,7 @@ categories: ["学习笔记"]
 
 ---
 
-## 💡1:分层抽象
+## 分层抽象
 
 把"通用算法"和"具体问题"拆成三层,互不干扰:
 
@@ -35,7 +35,7 @@ square_root_newton(a)                ← 应用层
 
 ---
 
-## 💡2:递归的"分类讨论 + 化简"
+## 递归的"分类讨论 + 化简"
 
 完成递归函数的关键在于把握两个要素：
 
@@ -60,7 +60,7 @@ count_partitions(n, m) = count_partitions(n-m, m) + count_partitions(n, m-1)
 
 ---
 
-## 💡3
+## 迭代vs递归
 
 递归和迭代不是效率对等的两种写法:
 - **迭代**需要显式维护状态变量(如 `total`、`k`)
@@ -75,4 +75,4 @@ count_partitions(n, m) = count_partitions(n-m, m) + count_partitions(n, m-1)
 **牛顿法把"通用算法"与"具体问题"解耦成三层;递归函数把"复杂问题"拆解成"更简单的同类问题+基准情况"。两者本质上都是同一种化简思维在不同场景下的具体应用。**
 
 ---
-> **参考来源**：[🦊 CS61A 教材 Composing Programs 的中文翻译](https://composingprograms.netlify.app/)
+> **参考来源**：[🦊 CS61A 教材 Composing Programs 的中文翻译](https://composingprograms.netlify.app/) 
